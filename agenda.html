@@ -27,11 +27,15 @@
         }
 
         h1{
-            background-color: #FFC107;
+            background-color: #FFD1C1;
+			color: black;
             padding: .1em;
             font-size: 16pt;
             display:inline-block;
-            width: auto;
+            width: 20%;
+			border: 1px solid #E9967A;
+			border-radius: .5em;
+			text-align:center;
         }
 
         h3{
@@ -41,21 +45,24 @@
         }
 
         .hora{
-            background-color: red;
+            background-color: #FF6F61;
             padding: .3em;
+			margin: 0px 1em 0px 0px;
             color: white;
+			border: 1px solid #C0392B;
             border-radius: .5em;
         }
 
         .evento{
-            background-color: gray;
-            color: white;
+            background-color: #D3D3D3;
+            color: black;
+			border: 1px solid #696969;
             border-radius: .5em;
             padding: .5em;
         }
 
         main {
-            padding: 1em;
+            padding: 5em;
         }
         footer {
             background-color: #f1f1f1;
@@ -130,7 +137,7 @@
             div.innerHTML += `<h3>${evento.nombre}</h3>`;
             evento.eventos.forEach(evento => {
                 div.innerHTML += `
-                        <p class="evento">${evento.nombre} <span class="hora">${obtenerHora(evento.fecha)}</span></p>
+                        <p class="evento"><span class="hora">${obtenerHora(evento.fecha)}</span>${evento.nombre}</p>
                 `;
             })
         }
