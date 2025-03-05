@@ -87,8 +87,7 @@
 		}
 
         main {
-			max-width: 1000px;
-            padding: 80px 3em 30px 3em;
+            padding: 80px 2em 30px 2em;
 			margin:0px auto;
         }
         footer {
@@ -129,8 +128,9 @@
 	// APLICANDO IMAGEN DE FONDO 
 	const imageUrl = "https://raw.githubusercontent.com/DamianBensi/UData/refs/heads/master/background.jpg";
     document.body.style.backgroundImage = `url(${imageUrl})`;
-    document.body.style.backgroundSize = "cover"; // Ajusta la imagen al tamaño de la ventana
     document.body.style.backgroundPosition = "center"; // Centra la imagen
+	document.body.style.backgroundSize = "cover"; // Ajusta la imagen al tamaño de la ventana
+	document.body.style.backgroundAttachment = "fixed";
 
 
     // Seleccionar el contenedor donde se mostrarán los datos
