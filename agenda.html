@@ -15,10 +15,6 @@
             padding: 0px;
 			background-color:#3C3C3C;
 			font-size: 14pt;
-			background-image: url('https://raw.githubusercontent.com/DamianBensi/UData/refs/heads/master/background.jpg');
-			background-size: cover; /* Ajusta la imagen para cubrir toda la página */
-			background-repeat: no-repeat; /* Evita que la imagen se repita */
-			background-position: center center; /* Centra la imagen en la página */
         }
 
 
@@ -129,6 +125,12 @@
 </html>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fetch/3.0.0/fetch.min.js"></script>
 <script>
+
+	// APLICANDO IMAGEN DE FONDO 
+	const imageUrl = "https://raw.githubusercontent.com/DamianBensi/UData/refs/heads/master/background.jpg";
+    document.body.style.backgroundImage = `url(${imageUrl})`;
+    document.body.style.backgroundSize = "cover"; // Ajusta la imagen al tamaño de la ventana
+    document.body.style.backgroundPosition = "center"; // Centra la imagen
 
 
     // Seleccionar el contenedor donde se mostrarán los datos
