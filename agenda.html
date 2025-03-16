@@ -1,211 +1,25 @@
-<!DOCTYPE html>
-<html lang="es">
+<!doctype html>
+<html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Descripción de la página">
-    <meta name="keywords" content="palabras, clave, separadas, por, comas">
-    <meta name="author" content="Autor de la página">
-    <title>Título de la página</title>
-    <style>
-        /* Estilos CSS */
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0px;
-            padding: 0px;
-			background-color:#3C3C3C;
-			font-size: 14pt;
-        }
-
-
-        header {
-            background-color: #DB4D4D;
-			border: 1px solid red;
-			height: auto;
-            color: #f0f0f0;
-            padding: .1em;
-            text-align: center;
-			position:fixed;
-			top:0px;
-			width: 100%;
-			font-size: 12pt;
-        }
-
-        h1{
-            background-color: #FFD1C1;
-			color: black;
-            padding: .1em;
-            font-size: 14pt;
-            display:inline-block;
-            width: 100%;
-			border: 1px solid #E9967A;
-			border-radius: .5em;
-			text-align:center;
-        }
-
-        h3{
-            /*background-color: #FD7E14;*/
-            padding: .1em;
-            font-size: 14pt;
-			color:#f0f0f0;
-			text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
-        }
-
-        .hora{
-            background-color: #FF6F61;
-            padding: .3em;
-			margin: 0px 1em 0px 0px;
-            color: black;
-			border: 1px solid #C0392B;
-            border-radius: .5em;
-			font-size:11pt;
-			font-weight: bold;
-        }
-
-        .evento{
-			background-color:#31343C;
-            color: #f0f0f0;
-			border: 1px solid #f0f0f0;
-            border-radius: .5em;
-            padding: .5em;
-			margin: 2em 0px 0px 0px;
-        }
-		
-		.canal{
-			color:black;
-			background-color:#f0f0f0;
-			width: auto;
-			padding: .5em;
-			font-size: 8pt;
-			margin: 0px 0px 0px 0px;
-			border:1px solid black;
-			border-radius: .5em;
-			text-align:center;
+	<meta charset="utf-8" />
+	<!-- <link rel="icon" href="https://programacion.tcc.com.uy/favicon.ico" /> -->
+	<!-- <meta name="viewport" content="width=device-width,initial-scale=1" /> -->
+	<!-- <meta name="theme-color" content="#000000" />
+	<meta name="description" content="Web site created using create-react-app" /> -->
+	<!-- <link rel="apple-touch-icon" href="https://programacion.tcc.com.uy/logo192.png" /> -->
+	<!-- <link rel="manifest" href="https://programacion.tcc.com.uy/manifest.json" /> -->
+	<title>TCC - Programación</title>
+	<script defer="defer" src="https://programacion.tcc.com.uy/static/js/main.66307adc.js"></script>
+	<link href="https://programacion.tcc.com.uy/static/css/main.193e90e9.css" rel="stylesheet">
+	<style>
+		.flickity-enabled, .sc-bczRLJ{
+			display: none !important;
 		}
-		
-		.fechaMin{
-			font-size: 11pt;
-		}
-
-        main {
-            padding: 80px 2em 30px 2em;
-			margin:0px auto;
-        }
-        footer {
-            background-color: #f1f1f1;
-            color: #333;
-            text-align: center;
-            padding: 0;
-            position: fixed;
-            bottom: 0;
-            width: 100%;
-        }
-		
-		#container{
-			background-color: rgba(0,0,0,.5);
-			padding: 1em;
-			border-radius:1em;
-		}
-    </style>
+	</style>
 </head>
-<body>
-<header>
-    <div>AGENDA DEPORTIVA</div>
-</header>
 
-<main>
-    <section id="container">
-
-    </section>
-</main>
-
-<footer></footer>
-
+<body><noscript>You need to enable JavaScript to run this app.</noscript>
+	<div id="root"></div>
 </body>
 </html>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fetch/3.0.0/fetch.min.js"></script>
-<script>
-
-	// APLICANDO IMAGEN DE FONDO 
-	const imageUrl = "https://raw.githubusercontent.com/DamianBensi/UData/refs/heads/master/background.jpg";
-    document.body.style.backgroundImage = `url(${imageUrl})`;
-    document.body.style.backgroundPosition = "center"; // Centra la imagen
-	document.body.style.backgroundSize = "100% 100%"; // Ajusta la imagen al tamaño de la ventana
-	document.body.style.backgroundAttachment = "fixed";
-
-
-    // Seleccionar el contenedor donde se mostrarán los datos
-    const dataContainer = document.getElementById('container');
-
-    // URL del recurso JSON
-    const url = 'https://raw.githubusercontent.com/DamianBensi/UData/refs/heads/master/agenda.json';
-
-    // Realizar la solicitud con fetch
-    fetch(url)
-        .then(response => {
-            // Verificar si la respuesta fue exitosa
-            if (!response.ok) {
-                throw new Error('Error en la solicitud: ' + response.statusText);
-            }
-            // Parsear la respuesta a JSON
-            return response.json();
-        })
-        .then(data => {
-            // Aquí tienes el JSON obtenido
-            obtenerDatos(data);
-        })
-        .catch(error => {
-            // Manejar errores
-            console.error('Hubo un problema con la solicitud:', error);
-        });
-
-
-
-
-
-    function obtenerDatos(datos){
-        datos.fechas.forEach(dato => {
-            crearElementoPersona(dato);
-        })
-    }
-
-    // Función para crear un elemento HTML para cada dato
-    function crearElementoPersona(dato) {
-    const div = document.createElement('div');
-    div.innerHTML += `<h1>${convertirFecha(dato.fecha)}</h1>`
-    dato.torneos.forEach(evento => {
-        if(evento.deporte.id == 1){
-            div.innerHTML += `<h3>${evento.nombre}</h3>`;
-            evento.eventos.forEach(evento => {
-				const container = document.createElement('p');
-				container.className = 'evento';
-                container.innerHTML += `<span class="hora">${obtenerHora(evento.fecha)}</span>${evento.nombre}<span class="fechaMin"> | ${convertirFecha(dato.fecha)}</span><br><br>`;
-				evento.canales.forEach(canal => {
-					container.innerHTML += `<span class="canal">${canal.nombre}</span>`;
-				})
-				div.appendChild(container)
-            })
-        }
-    })
-
-
-
-      dataContainer.appendChild(div);
-      return;
-    }
-
-
-    // Función para convertir la fecha de formato yyyy-mm-dd a formato argentino dd/mm/yyyy
-        function convertirFecha(fechaTexto) {
-            const [año, mes, dia] = fechaTexto.split('-');
-            return `${dia}/${mes}/${año}`;
-        }
-
-    // Funcion para obtener y convertir la hora
-    function obtenerHora(fechaHoraTexto) {
-        const horaCompleta = fechaHoraTexto.split(' ')[1];
-        const [hora, minutos] = horaCompleta.split(':');
-        return `${hora}:${minutos}`;
-    }
-
-</script>
