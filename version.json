@@ -1,0 +1,6 @@
+{
+  "versionCode": 2,
+  "arm64v8aUrl": "https://github.com/DamianBensi/UData/releases/download/UData/app-universal-release-201.apk",
+  "armeabiv7aUrl": "https://github.com/DamianBensi/UData/releases/download/UData/app-universal-release-201.apk",
+  "default": "https://github.com/DamianBensi/UData/releases/download/UData/app-universal-release-201.apk"
+}
