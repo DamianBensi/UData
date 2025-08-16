@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "arm64v8aUrl": "https://github.com/DamianBensi/UData/releases/download/UData/app-release-beta-208.apk",
-  "armeabiv7aUrl": "https://github.com/DamianBensi/UData/releases/download/UData/app-release-beta-208.apk",
-  "default": "https://github.com/DamianBensi/UData/releases/download/UData/app-release-beta-208.apk"
+  "versionCode": 5,
+  "arm64v8aUrl": "https://github.com/DamianBensi/UData/releases/download/UData/app-release-beta-220.apk",
+  "armeabiv7aUrl": "https://github.com/DamianBensi/UData/releases/download/UData/app-release-beta-220.apk",
+  "default": "https://github.com/DamianBensi/UData/releases/download/UData/app-release-beta-220.apk"
 }
