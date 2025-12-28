@@ -1,7 +1,8 @@
 [
   {"nombre": "TV Damian", "id": "3d7f0ad5fc39ad89", "llave": "tvdamian*", "vto": "2026-01-13T21:00:00"},
   {"nombre": "TvDebug", "id": "56b857308bc96894", "llave": "1234", "vto": "2026-01-13T21:00:00" },
-  {"nombre": "WSA DAMIAN", "id": "1c995a02afbf8795", "llave": "1234", "vto": "2025-12-13T21:00:00" },
+  {"nombre": "WSA DAMIAN DEBUG", "id": "1c995a02afbf8795", "llave": "1234", "vto": "2025-12-13T21:00:00" },
+  {"nombre": "WSA DAMIAN DEBUG", "id": "cb93268077a0ec67", "llave": "1234", "vto": "2025-12-13T21:00:00" },
   {"nombre": "CristianRelease", "id": "5a84d96a8e995b48", "llave": "Cristian@22", "vto": "2026-01-13T21:00:00"},
   {"nombre": "mama", "id": "f770b8dfd22d9211", "llave": "Nancy@24", "vto": "2026-01-13T21:00:00"},
   {"nombre": "mamatv", "id": "996aa9c1489f0e15", "llave": "nancytv24", "vto": "2026-01-13T21:00:00"},
