@@ -9,6 +9,7 @@
   {"nombre": "Marisa TV", "id": "f7b50d43a8869f73", "llave": "marisa2025", "vto": "2026-02-13T21:00:00"},
   {"nombre": "YESICA", "id": "b610da917934f822", "llave": "yesica2026", "vto": "2026-03-12T21:00:00"},
   {"nombre": "MIRIAM", "id": "ec02746a34c273a6", "llave": "miriam2026", "vto": "2026-03-12T21:00:00"},
+  {"nombre": "USUARIO", "id": "c7210baac86585eb", "llave": "usuario2026", "vto": "2026-03-12T21:00:00"},
   
   
   {"nombre": "TvDebug", "id": "56b857308bc96894", "llave": "1234", "vto": "2026-02-13T21:00:00" },
