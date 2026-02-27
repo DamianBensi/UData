@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "arm64v8aUrl": "https://github.com/DamianBensi/UData/releases/download/UData/universo-2.8.apk",
-  "armeabiv7aUrl": "https://github.com/DamianBensi/UData/releases/download/UData/universo-2.8.apk",
-  "default": "https://github.com/DamianBensi/UData/releases/download/UData/universo-2.8.apk"
+  "versionCode": 9,
+  "arm64v8aUrl": "https://github.com/DamianBensi/UData/releases/download/UData/universo-2.8.1.apk",
+  "armeabiv7aUrl": "https://github.com/DamianBensi/UData/releases/download/UData/universo-2.8.1.apk",
+  "default": "https://github.com/DamianBensi/UData/releases/download/UData/universo-2.8.1.apk"
 }
