@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "arm64v8aUrl": "https://github.com/DamianBensi/UData/releases/download/UData/app-universal-release-30.apk",
-  "armeabiv7aUrl": "https://github.com/DamianBensi/UData/releases/download/UData/app-universal-release-30.apk",
-  "default": "https://github.com/DamianBensi/UData/releases/download/UData/app-universal-release-30.apk"
+  "versionCode": 11,
+  "arm64v8aUrl": "https://github.com/DamianBensi/UData/releases/download/UData/app-release-301.apk",
+  "armeabiv7aUrl": "https://github.com/DamianBensi/UData/releases/download/UData/app-release-301.apk",
+  "default": "https://github.com/DamianBensi/UData/releases/download/UData/app-release-301.apk"
 }
