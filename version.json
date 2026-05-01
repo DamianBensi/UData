@@ -1,5 +1,5 @@
 {
-  "versionCode": 11,
+  "versionCode": 10,
   "arm64v8aUrl": "https://github.com/DamianBensi/UData/releases/download/UData/app-release-301.apk",
   "armeabiv7aUrl": "https://github.com/DamianBensi/UData/releases/download/UData/app-release-301.apk",
   "default": "https://github.com/DamianBensi/UData/releases/download/UData/app-release-301.apk"
