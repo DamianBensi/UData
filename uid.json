@@ -39,5 +39,5 @@
   {"nombre": "MAURO CANO", "id": "6e53d2e831fc9ebe_vencido", "llave": "CANO12026_vencido", "vto": "2026-06-27T21:00:00", "xurl": "", "xu": "", "xp": ""},
   {"nombre": "CRISTIAN MORELLI", "id": "b897cca7c6a017eb_vencido", "llave": "cris0126_vencido", "vto": "2026-06-30T21:00:00", "xurl": "", "xu": "", "xp": ""},
   
-  {"nombre": "", "id": "", "llave": "", "vto": ""}
+  {"nombre": "borrar", "id": "", "llave": "", "vto": ""}
 ]
