@@ -18,7 +18,7 @@
   {"nombre": "MIRIAM", "id": "ec02746a34c273a6", "llave": "miriam2026", "vto": "2026-08-13T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "MrWByDGw8RYQqj06fvyEUw==", "xp": "N8ywZ2gcT6VRc/8q8HFiBQ=="},
   {"nombre": "LILI", "id": "1ccc1d6160af3d0f", "llave": "lili2026", "vto": "2026-08-17T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "MrWByDGw8RYQqj06fvyEUw==", "xp": "N8ywZ2gcT6VRc/8q8HFiBQ=="},
 
-  {"nombre": "GRACIELA", "id": "cb0a9b3ac433687b", "llave": "8k2026", "vto": "2026-07-29T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "enOFYpURi7RypLOCZj/zuQ==", "xp": "jY2av0JIixuxGNIPJ1fmig=="},
+  {"nombre": "GRACIELA", "id": "cb0a9b3ac433687b", "llave": "8k2026", "vto": "2026-08-29T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "enOFYpURi7RypLOCZj/zuQ==", "xp": "jY2av0JIixuxGNIPJ1fmig=="},
   {"nombre": "Walter Morello", "id": "2f3fc690ae9bb96c", "llave": "walter2026", "vto": "2026-08-16T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "enOFYpURi7RypLOCZj/zuQ==", "xp": "jY2av0JIixuxGNIPJ1fmig=="},
   {"nombre": "ANA CUELLO", "id": "eb1e2be37b40d5b6", "llave": "cuello2026", "vto": "2026-08-08T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "enOFYpURi7RypLOCZj/zuQ==", "xp": "jY2av0JIixuxGNIPJ1fmig=="},
 
@@ -26,7 +26,7 @@
   {"nombre": "LUCIA GARRO", "id": "05472cbddd3d9962", "llave": "lucia0126", "vto": "2026-07-27T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "zscqgOOMMAJ+Tel2nff+xw==", "xp": "LjV11Dl4B+Bu1nxV5uYo5w=="},
   {"nombre": "SALA CUADRO", "id": "d7e4ad6f28027096", "llave": "salacn", "vto": "2026-08-07T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "zscqgOOMMAJ+Tel2nff+xw==", "xp": "LjV11Dl4B+Bu1nxV5uYo5w=="},
  
-  {"nombre": "TGraciela02", "id": "8c7efa02081f32a7", "llave": "graciela02", "vto": "2026-07-22T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Pc086Dm/N1yWplPysvE9xw==", "xp": "RdXga2/e1Vw7h4c9tWT8ZA=="},
+  {"nombre": "TGraciela02", "id": "8c7efa02081f32a7", "llave": "graciela02", "vto": "2026-08-22T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Pc086Dm/N1yWplPysvE9xw==", "xp": "RdXga2/e1Vw7h4c9tWT8ZA=="},
   {"nombre": "MARISA ESTRELLA", "id": "c35430c1975e04a3", "llave": "marisa0126", "vto": "2026-07-27T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Pc086Dm/N1yWplPysvE9xw==", "xp": "RdXga2/e1Vw7h4c9tWT8ZA=="},
   {"nombre": "HUGO VEGA", "id": "9005c66d12815012", "llave": "hugo0726", "vto": "2026-08-13T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Pc086Dm/N1yWplPysvE9xw==", "xp": "RdXga2/e1Vw7h4c9tWT8ZA=="},
 
@@ -40,5 +40,5 @@
   {"nombre": "CRISTIAN MORELLI", "id": "b897cca7c6a017eb_vencido", "llave": "cris0126_vencido", "vto": "2026-06-30T21:00:00", "xurl": "", "xu": "", "xp": ""},
   {"nombre": "TGraciela03", "id": "6082c8c8639443ab_vencido", "llave": "graciela03_vencido", "vto": "2026-07-14T21:00:00", "xurl": "", "xu": "", "xp": ""},
   
-  {"nombre": "", "id": "", "llave": "", "vto": ""}
+  {"nombre": "borrar", "id": "", "llave": "", "vto": ""}
 ]
