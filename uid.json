@@ -40,5 +40,5 @@
   {"nombre": "CRISTIAN MORELLI", "id": "b897cca7c6a017eb_vencido", "llave": "cris0126_vencido", "vto": "2026-06-30T21:00:00", "xurl": "", "xu": "", "xp": ""},
   {"nombre": "TGraciela03", "id": "6082c8c8639443ab_vencido", "llave": "graciela03_vencido", "vto": "2026-07-14T21:00:00", "xurl": "", "xu": "", "xp": ""},
   
-  {"nombre": "borrar", "id": "", "llave": "", "vto": ""}
+  {"nombre": "", "id": "borrar", "llave": "", "vto": ""}
 ]
