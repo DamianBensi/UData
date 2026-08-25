@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "arm64v8aUrl": "https://github.com/DamianBensi/UData/releases/download/UData/universo_311.apk",
-  "armeabiv7aUrl": "https://github.com/DamianBensi/UData/releases/download/UData/universo_311.apk",
-  "default": "https://github.com/DamianBensi/UData/releases/download/UData/universo_311.apk"
+  "versionCode": 15,
+  "arm64v8aUrl": "https://github.com/DamianBensi/UData/releases/download/UData/universo-b4.apk",
+  "armeabiv7aUrl": "https://github.com/DamianBensi/UData/releases/download/UData/universo-b4.apk",
+  "default": "https://github.com/DamianBensi/UData/releases/download/UData/universo-b4.apk"
 }
