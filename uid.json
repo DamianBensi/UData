@@ -40,5 +40,6 @@
   {"nombre": "SALA CUADRO", "id": "d7e4ad6f28027096_VENCIDO", "llave": "salacn_VENCIDO", "vto": "2026-08-07T21:00:00", "xurl": "", "xu": "", "xp": ""},
  
   
-  {"nombre": "", "id": "", "llave": "borrar", "vto": ""}
+  {"nombre": "", "id": "", "llave": "", "vto": ""},
+  {"nombre": "", "id": "", "llave": "", "vto": "borrar"}
 ]
