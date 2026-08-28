@@ -23,12 +23,13 @@
   {"nombre": "ANA", "id": "f3b29539c58bf3d6", "llave": "ANA12026", "vto": "2026-09-17T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "zlSii0B8d7O1R6s3+tpt4Q==", "xp": "oK+RTUi6LZB4fI0oZc+fqg=="},
   
   {"nombre": "TGraciela02", "id": "8c7efa02081f32a7", "llave": "graciela02", "vto": "2026-09-22T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Qy33UbfI2qxOJBjgXf76cg==", "xp": "6F3qfXsT9hMyJvKTAnD51Q=="},
-  {"nombre": "MARISA ESTRELLA", "id": "c35430c1975e04a3", "llave": "marisa0126", "vto": "2026-09-28T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Qy33UbfI2qxOJBjgXf76cg==", "xp": "6F3qfXsT9hMyJvKTAnD51Q=="},
   {"nombre": "HUGO VEGA", "id": "9005c66d12815012", "llave": "hugo0726", "vto": "2026-09-18T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Qy33UbfI2qxOJBjgXf76cg==", "xp": "6F3qfXsT9hMyJvKTAnD51Q=="},
 
   {"nombre": "MARIA ANTONIA T1", "id": "304dcfa89e6feaba", "llave": "mari062026", "vto": "2026-09-15T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "EWaAwPYiPIC00+ZJ4oq8zQ==", "xp": "ckHDAC+xn9Lhq3TLLVntQA=="},
   {"nombre": "MARIA ANTONIA T2", "id": "7c4b40251888da53", "llave": "mari062026", "vto": "2026-09-15T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "EWaAwPYiPIC00+ZJ4oq8zQ==", "xp": "ckHDAC+xn9Lhq3TLLVntQA=="},
   {"nombre": "ANA CUELLO", "id": "eb1e2be37b40d5b6", "llave": "cuello2026", "vto": "2026-09-08T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "EWaAwPYiPIC00+ZJ4oq8zQ==", "xp": "ckHDAC+xn9Lhq3TLLVntQA=="},
+  {"nombre": "MARISA ESTRELLA", "id": "c35430c1975e04a3", "llave": "marisa0126", "vto": "2026-09-28T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Qy33UbfI2qxOJBjgXf76cg==", "xp": "6F3qfXsT9hMyJvKTAnD51Q=="},
+
   
   {"nombre": "CUELLO MATIAS", "id": "ed5651c4c622b605_vencido", "llave": "matias2026_vencido", "vto": "2026-06-02T21:00:00", "xurl": "", "xu": "", "xp": ""},
   {"nombre": "LUIS CELIS", "id": "ccd1fd84699edcb1_vencido", "llave": "luisc0126_vencido", "vto": "2026-05-22T21:00:00", "xurl": "", "xu": "", "xp": ""},
@@ -40,6 +41,5 @@
   {"nombre": "SALA CUADRO", "id": "d7e4ad6f28027096_VENCIDO", "llave": "salacn_VENCIDO", "vto": "2026-08-07T21:00:00", "xurl": "", "xu": "", "xp": ""},
  
   
-  {"nombre": "", "id": "", "llave": "", "vto": ""},
-  {"nombre": "", "id": "", "llave": "", "vto": "borrar"}
+  {"nombre": "", "id": "BORRAR", "llave": "", "vto": ""}
 ]
