@@ -14,7 +14,7 @@
   {"nombre": "MELI", "id": "74790d499b529dce", "llave": "meli0626", "vto": "2026-10-12T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "zscqgOOMMAJ+Tel2nff+xw==", "xp": "LjV11Dl4B+Bu1nxV5uYo5w=="},
 
   
-  {"nombre": "YESICA", "id": "b610da917934f822", "llave": "yesica2026", "vto": "2026-09-12T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Pc086Dm/N1yWplPysvE9xw==", "xp": "RdXga2/e1Vw7h4c9tWT8ZA=="},
+  {"nombre": "YESICA", "id": "b610da917934f822", "llave": "yesica2026", "vto": "2026-10-15T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Pc086Dm/N1yWplPysvE9xw==", "xp": "RdXga2/e1Vw7h4c9tWT8ZA=="},
   {"nombre": "MIRIAM", "id": "ec02746a34c273a6", "llave": "miriam2026", "vto": "2026-10-13T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Pc086Dm/N1yWplPysvE9xw==", "xp": "RdXga2/e1Vw7h4c9tWT8ZA=="},
   {"nombre": "LILI", "id": "baae1b4f81d94cd7", "llave": "lili2026", "vto": "2026-09-17T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Pc086Dm/N1yWplPysvE9xw==", "xp": "RdXga2/e1Vw7h4c9tWT8ZA=="},
 
@@ -42,7 +42,7 @@
   {"nombre": "CRISTIAN MORELLI", "id": "b897cca7c6a017eb_vencido", "llave": "cris0126_vencido", "vto": "2026-06-30T21:00:00", "xurl": "", "xu": "", "xp": ""},
   {"nombre": "LUCIA GARRO", "id": "05472cbddd3d9962_vencido", "llave": "lucia0126_vencido", "vto": "2026-07-27T21:00:00", "xurl": "", "xu": "", "xp": ""},
   {"nombre": "SALA CUADRO", "id": "d7e4ad6f28027096_VENCIDO", "llave": "salacn_VENCIDO", "vto": "2026-08-07T21:00:00", "xurl": "", "xu": "", "xp": ""},
- 
-  {"nombre": "MIRIAM", "id": "ec02746a34c273a6_BORRAR", "llave": "miriam2026", "vto": "2026-10-13T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Pc086Dm/N1yWplPysvE9xw==", "xp": "RdXga2/e1Vw7h4c9tWT8ZA=="},
+
+  {"nombre": "YESICA", "id": "b610da917934f822_BORRAR", "llave": "yesica2026_BORRAR", "vto": "2026-10-15T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Pc086Dm/N1yWplPysvE9xw==", "xp": "RdXga2/e1Vw7h4c9tWT8ZA=="},
   {"nombre": "", "id": "BORRAR", "llave": "", "vto": ""}
 ]
