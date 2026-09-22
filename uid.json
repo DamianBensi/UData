@@ -24,7 +24,7 @@
   {"nombre": "TGraciela03", "id": "6082c8c8639443ab", "llave": "graciela03", "vto": "2026-10-11T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "zlSii0B8d7O1R6s3+tpt4Q==", "xp": "oK+RTUi6LZB4fI0oZc+fqg=="},
   
   
-  {"nombre": "TGraciela02", "id": "8c7efa02081f32a7", "llave": "graciela02", "vto": "2026-09-22T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Qy33UbfI2qxOJBjgXf76cg==", "xp": "6F3qfXsT9hMyJvKTAnD51Q=="},
+  {"nombre": "TGraciela02", "id": "8c7efa02081f32a7", "llave": "graciela02", "vto": "2026-10-22T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Qy33UbfI2qxOJBjgXf76cg==", "xp": "6F3qfXsT9hMyJvKTAnD51Q=="},
   {"nombre": "HUGO VEGA", "id": "9005c66d12815012", "llave": "hugo0726", "vto": "2026-10-20T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Qy33UbfI2qxOJBjgXf76cg==", "xp": "6F3qfXsT9hMyJvKTAnD51Q=="},
   {"nombre": "MARISA ESTRELLA", "id": "c35430c1975e04a3", "llave": "marisa0126", "vto": "2026-09-28T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Qy33UbfI2qxOJBjgXf76cg==", "xp": "6F3qfXsT9hMyJvKTAnD51Q=="},
   {"nombre": "JUAN CARLOS", "id": "684cb06aba112a8e", "llave": "juan2026", "vto": "2026-10-06T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Qy33UbfI2qxOJBjgXf76cg==", "xp": "6F3qfXsT9hMyJvKTAnD51Q=="},
@@ -43,7 +43,6 @@
   {"nombre": "LUCIA GARRO", "id": "05472cbddd3d9962_vencido", "llave": "lucia0126_vencido", "vto": "2026-07-27T21:00:00", "xurl": "", "xu": "", "xp": ""},
   {"nombre": "SALA CUADRO", "id": "d7e4ad6f28027096_VENCIDO", "llave": "salacn_VENCIDO", "vto": "2026-08-07T21:00:00", "xurl": "", "xu": "", "xp": ""},
 
-  {"nombre": "HUGO VEGA", "id": "9005c66d12815012", "llave": "hugo0726", "vto": "2026-09-18T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Qy33UbfI2qxOJBjgXf76cg==", "xp": "6F3qfXsT9hMyJvKTAnD51Q=="},
-  {"nombre": "Walter Morello", "id": "2f3fc690ae9bb96c_BORRAR", "llave": "walter2026_BORRAR", "vto": "2026-09-18T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "zlSii0B8d7O1R6s3+tpt4Q==", "xp": "oK+RTUi6LZB4fI0oZc+fqg=="},
+  {"nombre": "TGraciela02", "id": "8c7efa02081f32a7", "llave": "graciela02", "vto": "2026-09-22T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Qy33UbfI2qxOJBjgXf76cg==", "xp": "6F3qfXsT9hMyJvKTAnD51Q=="},
   {"nombre": "", "id": "BORRAR", "llave": "", "vto": ""}
 ]
