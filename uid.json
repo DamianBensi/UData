@@ -21,13 +21,13 @@
   {"nombre": "GRACIELA", "id": "8d6b26cc1d6a43b5", "llave": "8k2026", "vto": "2026-10-29T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "zlSii0B8d7O1R6s3+tpt4Q==", "xp": "oK+RTUi6LZB4fI0oZc+fqg=="},
   {"nombre": "Walter Morello", "id": "2f3fc690ae9bb96c", "llave": "walter2026", "vto": "2026-10-20T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "zlSii0B8d7O1R6s3+tpt4Q==", "xp": "oK+RTUi6LZB4fI0oZc+fqg=="},
   {"nombre": "ANA", "id": "f3b29539c58bf3d6", "llave": "ANA12026", "vto": "2026-10-20T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "zlSii0B8d7O1R6s3+tpt4Q==", "xp": "oK+RTUi6LZB4fI0oZc+fqg=="},
-  {"nombre": "TGraciela03", "id": "6082c8c8639443ab", "llave": "graciela03", "vto": "2026-10-11T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "zlSii0B8d7O1R6s3+tpt4Q==", "xp": "oK+RTUi6LZB4fI0oZc+fqg=="},
+  {"nombre": "TGraciela03", "id": "6082c8c8639443ab_VENCIDO", "llave": "graciela03_VENCIDO", "vto": "2026-10-11T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "zlSii0B8d7O1R6s3+tpt4Q==", "xp": "oK+RTUi6LZB4fI0oZc+fqg=="},
   
   
-  {"nombre": "TGraciela02", "id": "8a9fcfa3046f3d2c", "llave": "graciela02", "vto": "2026-10-22T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Qy33UbfI2qxOJBjgXf76cg==", "xp": "6F3qfXsT9hMyJvKTAnD51Q=="},
+  {"nombre": "TGraciela02", "id": "8a9fcfa3046f3d2c", "llave": "graciela02", "vto": "2026-10-29T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Qy33UbfI2qxOJBjgXf76cg==", "xp": "6F3qfXsT9hMyJvKTAnD51Q=="},
   {"nombre": "HUGO VEGA", "id": "9005c66d12815012", "llave": "hugo0726", "vto": "2026-10-20T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Qy33UbfI2qxOJBjgXf76cg==", "xp": "6F3qfXsT9hMyJvKTAnD51Q=="},
   {"nombre": "MARISA ESTRELLA", "id": "c35430c1975e04a3", "llave": "marisa0126", "vto": "2026-09-28T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Qy33UbfI2qxOJBjgXf76cg==", "xp": "6F3qfXsT9hMyJvKTAnD51Q=="},
-  {"nombre": "JUAN CARLOS", "id": "684cb06aba112a8e", "llave": "juan2026", "vto": "2026-10-06T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Qy33UbfI2qxOJBjgXf76cg==", "xp": "6F3qfXsT9hMyJvKTAnD51Q=="},
+  {"nombre": "JUAN CARLOS", "id": "684cb06aba112a8e", "llave": "juan2026", "vto": "2026-11-08T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Qy33UbfI2qxOJBjgXf76cg==", "xp": "6F3qfXsT9hMyJvKTAnD51Q=="},
   
   {"nombre": "MARIA ANTONIA T1", "id": "b20611ec753c6687", "llave": "mari26", "vto": "2026-10-16T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "EWaAwPYiPIC00+ZJ4oq8zQ==", "xp": "ckHDAC+xn9Lhq3TLLVntQA=="},
   {"nombre": "MARIA ANTONIA T2", "id": "c43e080e6761466b", "llave": "mari26", "vto": "2026-10-16T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "EWaAwPYiPIC00+ZJ4oq8zQ==", "xp": "ckHDAC+xn9Lhq3TLLVntQA=="},
@@ -42,7 +42,6 @@
   {"nombre": "SALA CUADRO", "id": "d7e4ad6f28027096_VENCIDO", "llave": "salacn_VENCIDO", "vto": "2026-08-07T21:00:00", "xurl": "", "xu": "", "xp": ""},
   {"nombre": "ANA CUELLO", "id": "eb1e2be37b40d5b6_VENCIDO", "llave": "cuello2026_VENCIDO", "vto": "2026-09-08T21:00:00", "xurl": "", "xu": "", "xp": ""},
 
-  {"nombre": "GRACIELA", "id": "8d6b26cc1d6a43b5_BORRAR", "llave": "8k2026_BORRAR", "vto": "2026-09-29T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "zlSii0B8d7O1R6s3+tpt4Q==", "xp": "oK+RTUi6LZB4fI0oZc+fqg=="},
-  {"nombre": "TGraciela02", "id": "8c7efa02081f32a7_borrar", "llave": "graciela02_borrar", "vto": "2026-10-22T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Qy33UbfI2qxOJBjgXf76cg==", "xp": "6F3qfXsT9hMyJvKTAnD51Q=="},
+  {"nombre": "JUAN CARLOS", "id": "684cb06aba112a8e", "llave": "juan2026", "vto": "2026-11-08T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Qy33UbfI2qxOJBjgXf76cg==", "xp": "6F3qfXsT9hMyJvKTAnD51Q=="},
   {"nombre": "", "id": "BORRAR", "llave": "", "vto": ""}
 ]
