@@ -20,7 +20,7 @@
 
   {"nombre": "GRACIELA", "id": "8d6b26cc1d6a43b5", "llave": "8k2026", "vto": "2026-10-29T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "zlSii0B8d7O1R6s3+tpt4Q==", "xp": "oK+RTUi6LZB4fI0oZc+fqg=="},
   {"nombre": "Walter Morello", "id": "2f3fc690ae9bb96c", "llave": "walter2026", "vto": "2026-11-21T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "zlSii0B8d7O1R6s3+tpt4Q==", "xp": "oK+RTUi6LZB4fI0oZc+fqg=="},
-  {"nombre": "ANA", "id": "f3b29539c58bf3d6", "llave": "ANA12026", "vto": "2026-10-20T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "zlSii0B8d7O1R6s3+tpt4Q==", "xp": "oK+RTUi6LZB4fI0oZc+fqg=="},
+  {"nombre": "ANA", "id": "f3b29539c58bf3d6", "llave": "ANA12026", "vto": "2026-11-22T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "zlSii0B8d7O1R6s3+tpt4Q==", "xp": "oK+RTUi6LZB4fI0oZc+fqg=="},
   {"nombre": "TGraciela03", "id": "6082c8c8639443ab_VENCIDO", "llave": "graciela03_VENCIDO", "vto": "2026-10-11T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "zlSii0B8d7O1R6s3+tpt4Q==", "xp": "oK+RTUi6LZB4fI0oZc+fqg=="},
   
   
@@ -42,7 +42,6 @@
   {"nombre": "SALA CUADRO", "id": "d7e4ad6f28027096_VENCIDO", "llave": "salacn_VENCIDO", "vto": "2026-08-07T21:00:00", "xurl": "", "xu": "", "xp": ""},
   {"nombre": "ANA CUELLO", "id": "eb1e2be37b40d5b6_VENCIDO", "llave": "cuello2026_VENCIDO", "vto": "2026-09-08T21:00:00", "xurl": "", "xu": "", "xp": ""},
 
-  {"nombre": "Walter Morello", "id": "2f3fc690ae9bb96c_BORRAR", "llave": "walter2026_BORRAR", "vto": "2026-10-20T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "zlSii0B8d7O1R6s3+tpt4Q==", "xp": "oK+RTUi6LZB4fI0oZc+fqg=="},
-  {"nombre": "HUGO VEGA", "id": "9005c66d12815012_BORRAR", "llave": "hugo0726_BORRAR", "vto": "2026-10-20T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "Qy33UbfI2qxOJBjgXf76cg==", "xp": "6F3qfXsT9hMyJvKTAnD51Q=="},
+  {"nombre": "ANA", "id": "f3b29539c58bf3d6_BORRAR", "llave": "ANA12026_BORRAR", "vto": "2026-11-22T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "zlSii0B8d7O1R6s3+tpt4Q==", "xp": "oK+RTUi6LZB4fI0oZc+fqg=="},
   {"nombre": "", "id": "BORRAR", "llave": "", "vto": ""}
 ]
