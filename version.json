@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "arm64v8aUrl": "https://github.com/DamianBensi/UData/releases/download/UData/UniversoTv-b4.apk",
-  "armeabiv7aUrl": "https://github.com/DamianBensi/UData/releases/download/UData/UniversoTv-b4.apk",
-  "default": "https://github.com/DamianBensi/UData/releases/download/UData/UniversoTv-b4.apk"
+  "versionCode": 17,
+  "arm64v8aUrl": "https://github.com/DamianBensi/UData/releases/download/UData/Universotv_b41126.apk",
+  "armeabiv7aUrl": "https://github.com/DamianBensi/UData/releases/download/UData/Universotv_b41126.apk",
+  "default": "https://github.com/DamianBensi/UData/releases/download/UData/Universotv_b41126.apk"
 }
