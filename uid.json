@@ -3,8 +3,8 @@
   {"nombre": "DamianDebug", "id": "8df7fe2846ea285b", "llave": "Nono193", "vto": "2027-05-12T21:00:00"},
 
   {"nombre": "Marisa", "id": "544e06f396d4a1c1", "llave": "marisa2025", "vto": "2026-12-13T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "MrWByDGw8RYQqj06fvyEUw==", "xp": "N8ywZ2gcT6VRc/8q8HFiBQ=="},
-  {"nombre": "TMarisa", "id": "f7b50d43a8869f73", "llave": "marisa2025", "vto": "2026-12-13T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "MrWByDGw8RYQqj06fvyEUw==", "xp": "N8ywZ2gcT6VRc/8q8HFiBQ=="},
-  {"nombre": "Tmama", "id": "996aa9c1489f0e15", "llave": "nancytv24", "vto": "2026-12-13T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "MrWByDGw8RYQqj06fvyEUw==", "xp": "N8ywZ2gcT6VRc/8q8HFiBQ=="},
+  {"nombre": "TMarisa", "id": "f7b50d43a8869f73", "llave": "marisa2025", "vto": "2026-12-13T21:00:00", "xurl": "vgwRK47tZr2Dbk1dAnNHcRzkOJYg8foLnBoMRz4/EuE=", "xu": "IzPz7D8Aq9NrqZerjNnHiw==", "xp": "zaSAH6x1MUZDLWUIJIQvyg=="},
+  {"nombre": "Tmama", "id": "996aa9c1489f0e15", "llave": "nancytv24", "vto": "2026-12-13T21:00:00", "xurl": "vgwRK47tZr2Dbk1dAnNHcRzkOJYg8foLnBoMRz4/EuE=", "xu": "IzPz7D8Aq9NrqZerjNnHiw==", "xp": "zaSAH6x1MUZDLWUIJIQvyg=="},
   {"nombre": "mama", "id": "f770b8dfd22d9211", "llave": "Nancy@24", "vto": "2026-12-13T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "MrWByDGw8RYQqj06fvyEUw==", "xp": "N8ywZ2gcT6VRc/8q8HFiBQ=="},
  
   {"nombre": "TDamian", "id": "3d7f0ad5fc39ad89", "llave": "tvdamian*", "vto": "2026-12-13T21:00:00", "xurl": "vgwRK47tZr2Dbk1dAnNHcRzkOJYg8foLnBoMRz4/EuE=", "xu": "IzPz7D8Aq9NrqZerjNnHiw==", "xp": "zaSAH6x1MUZDLWUIJIQvyg=="},
@@ -45,5 +45,6 @@
   {"nombre": "SALA CUADRO", "id": "d7e4ad6f28027096_VENCIDO", "llave": "salacn_VENCIDO", "vto": "2026-08-07T21:00:00", "xurl": "", "xu": "", "xp": ""},
   {"nombre": "ANA CUELLO", "id": "eb1e2be37b40d5b6_VENCIDO", "llave": "cuello2026_VENCIDO", "vto": "2026-09-08T21:00:00", "xurl": "", "xu": "", "xp": ""},
 
+  {"nombre": "Tmama", "id": "996aa9c1489f0e15_BORRAR", "llave": "nancytv24_BORRAR", "vto": "2026-12-13T21:00:00", "xurl": "LGFKIkAFMIODyskeaMnatMUZQgmToZEB55TXhD3zBNw=", "xu": "MrWByDGw8RYQqj06fvyEUw==", "xp": "N8ywZ2gcT6VRc/8q8HFiBQ=="},
   {"nombre": "", "id": "BORRAR", "llave": "", "vto": ""}
 ]
